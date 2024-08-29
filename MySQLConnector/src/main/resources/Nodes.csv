@@ -1,0 +1,14 @@
+Node_ID,Node_name,Description,"Memo	","Node_Type	","Parent_node_group_name	","Parent_node_group_ID	",Parent_node_name
+T300_001,Node1,Sample_text,Sample_text,Transponder,SubgroupNE_1,Sample_text,Sample_text
+T300_002,Node2,Sample_text,Sample_text,Transponder,SubgroupNE_1,Sample_text,Sample_text
+T300_003,Node3,Sample_text,Sample_text,Transponder,SubgroupNE_1,Sample_text,Sample_text
+"T300_004	",NOde4,Sample_text,Sample_text,Transponder,SubgroupNE_1,Sample_text,Sample_text
+T300_005,Node5,Sample_text,Sample_text,Transponder,SubgroupNE_1,Sample_text,Sample_text
+T300_006,Node6,Sample_text,Sample_text,Transponder,SubgroupNE_2,Sample_text,Sample_text
+"T300_007	",Node7,Sample_text,Sample_text,Roadm,SubgroupNE_2,Sample_text,Sample_text
+"T300_008	",Node8,Sample_text,Sample_text,Roadm,SubgroupNE_2,Sample_text,Sample_text
+"T300_009	",Node9,Sample_text,Sample_text,Roadm,SubgroupNE_2,Sample_text,Sample_text
+"T300_010	",Node10,Sample_text,Sample_text,Roadm,Group1,Sample_text,Sample_text
+T300_011,Node11,Sample_text,Sample_text,Roadm,Group1,Sample_text,Sample_text
+T300_012,Node12,Sample_text,Sample_text,Roadm,Group1,Sample_text,Sample_text
+"T300_013	",Node13,Sample_text,Sample_text,Roadm,Group1,Sample_text,Sample_text
